@@ -1,1 +1,1 @@
-# Terraform-OCI-Storage
+# Terraform-OCI-Storage-Resources
